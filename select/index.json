@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Wicked Wonderland",
+  "base_artist": "マーティン・タンゲバーグ",
+  "createdAt": "2026-01-13T07:31:08.782828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "Lita Ford",
+      "has_synced": false,
+      "path": "select/01_Wicked_Wonderland_Lita_Ford.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "Martin Tungevaag",
+      "has_synced": false,
+      "path": "select/02_Wicked_Wonderland_Martin_Tungevaag.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wicked Wonderland (Radio Edit)",
+      "artist": "Martin Tungevaag",
+      "has_synced": true,
+      "path": "select/03_Wicked_Wonderland_(Radio_Edit)_Martin_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "de Martin Tungevaag",
+      "has_synced": true,
+      "path": "select/04_Wicked_Wonderland_de_Martin_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "Martin Tungevaag",
+      "has_synced": true,
+      "path": "select/05_Wicked_Wonderland_Martin_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wicked Wonderland (Radio Edit)",
+      "artist": "Martin Tungevaag",
+      "has_synced": true,
+      "path": "select/06_Wicked_Wonderland_(Radio_Edit)_Martin_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "Tungevaag",
+      "has_synced": true,
+      "path": "select/07_Wicked_Wonderland_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "Tungevaag",
+      "has_synced": false,
+      "path": "select/08_Wicked_Wonderland_Tungevaag.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wicked Wonderland - Olly Hence Remix",
+      "artist": "Martin Tungevaag",
+      "has_synced": false,
+      "path": "select/09_Wicked_Wonderland_-_Olly_Hence_Remix_Martin_Tungevaag.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wicked Wonderland",
+      "artist": "Rev Theory",
+      "has_synced": true,
+      "path": "select/10_Wicked_Wonderland_Rev_Theory.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wicked Wonderland (Radio Edit)",
+      "artist": "Tungevaag",
+      "has_synced": true,
+      "path": "select/11_Wicked_Wonderland_(Radio_Edit)_Tungevaag.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Martin Tungevaag - Wicked Wonderland (Official Video HD)",
+      "artist": "Kontor.TV",
+      "has_synced": true,
+      "path": "select/12_Martin_Tungevaag_-_Wicked_Wonderland_(Official_Video_HD)_Kontor.TV.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Martin Tungevaag - Wicked Wonderland (Official Video HD) [egtI2xqg75E]",
+      "artist": "Martin Tungevaag",
+      "has_synced": true,
+      "path": "select/13_Martin_Tungevaag_-_Wicked_Wonderland_(Official_Video_HD)_[egtI2xqg75E]_Martin_Tungevaag.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wicked Wonderland",
+      "artist": "Martin Tungevaag",
+      "has_synced": false,
+      "path": "select/pl_01_Wicked_Wonderland_Martin_Tungevaag.txt"
+    }
+  ]
+}
